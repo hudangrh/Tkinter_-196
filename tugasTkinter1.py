@@ -72,3 +72,5 @@ label_hasil = tk.Label(
     bg="white",
     fg="#16803c",
     wraplength=400
+)
+label_hasil.pack(pady=10)
