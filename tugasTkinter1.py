@@ -34,3 +34,13 @@ frame_input = tk.Frame(frame, bg="white")
 frame_input.pack(fill="x")
 
 entries = []
+
+for i, mapel in enumerate(mata_pelajaran):
+    label = tk.Label(
+        frame_input,
+        text=f"Nilai {mapel}",
+        font=("Arial", 10),
+        bg="white",
+        anchor="w",
+        width=18
+    )
