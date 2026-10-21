@@ -64,3 +64,4 @@ tombol_prediksi = tk.Button(
     width=20,
     pady=8
 )
+tombol_prediksi.pack(pady=20)
