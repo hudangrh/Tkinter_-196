@@ -66,3 +66,6 @@ tombol_prediksi = tk.Button(
 )
 tombol_prediksi.pack(pady=20)
 label_hasil = tk.Label(
+    frame,
+    text="Hasil Prediksi: -",
+    font=("Arial", 12, "bold"),
