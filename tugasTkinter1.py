@@ -69,3 +69,6 @@ label_hasil = tk.Label(
     frame,
     text="Hasil Prediksi: -",
     font=("Arial", 12, "bold"),
+    bg="white",
+    fg="#16803c",
+    wraplength=400
