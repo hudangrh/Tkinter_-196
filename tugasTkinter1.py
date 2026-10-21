@@ -18,4 +18,15 @@ Label = tk.Label(
     fg="#1d3557"
 )
 Label.pack(pady=10)
-mata_pelajaran = 
+mata_pelajaran = [
+    "Matematika",
+    "Bahasa Indonesia",
+    "Bahasa Inggris",
+    "Fisika",
+    "Kimia",
+    "Biologi",
+    "Ekonomi",
+    "Geografi",
+    "Sejarah",
+    "Informatika"
+]
