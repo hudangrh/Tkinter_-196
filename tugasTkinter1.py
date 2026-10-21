@@ -18,3 +18,4 @@ Label = tk.Label(
     fg="#1d3557"
 )
 Label.pack(pady=10)
+mata_pelajaran = 
