@@ -30,3 +30,7 @@ mata_pelajaran = [
     "Sejarah",
     "Informatika"
 ]
+frame_input = tk.Frame(frame, bg="white")
+frame_input.pack(fill="x")
+
+entries = []
