@@ -50,3 +50,17 @@ for i, mapel in enumerate(mata_pelajaran):
     entry.grid(row=i, column=1, padx=(10, 0), pady=5)
 
     entries.append(entry)
+
+tombol_prediksi = tk.Button(
+    frame,
+    text="Hasil Prediksi",
+    command=hasil_prediksi,
+    font=("Arial", 11, "bold"),
+    bg="#1d72b8",
+    fg="white",
+    activebackground="#155a8a",
+    activeforeground="white",
+    cursor="hand2",
+    width=20,
+    pady=8
+)
