@@ -65,3 +65,4 @@ tombol_prediksi = tk.Button(
     pady=8
 )
 tombol_prediksi.pack(pady=20)
+label_hasil = tk.Label(
