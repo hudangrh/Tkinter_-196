@@ -74,3 +74,4 @@ label_hasil = tk.Label(
     wraplength=400
 )
 label_hasil.pack(pady=10)
+root.mainloop()
